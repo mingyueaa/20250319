@@ -1,7 +1,7 @@
 #inlcude<stdio.h>
 int main(){
 
-printf("this my file");
-
+int a=10;
+printf("a=%d",a);
 return 0;
 }
